@@ -1,6 +1,6 @@
 # D-LEDI_Wrapper
 
-The `dledi.ipynp` show how to load Nikon D-LEDI sdk in python3.
+The `dledi.ipynb` shows how to load Nikon D-LEDI SDK in Python3.
 
 
 Hope it will help you.
